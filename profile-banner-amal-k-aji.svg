@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="420" viewBox="0 0 1600 420">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1600" y2="420" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F7F5FF"/><stop offset=".38" stop-color="#B9B1FF"/><stop offset=".68" stop-color="#7A70D8"/><stop offset="1" stop-color="#4F46E5"/>
+    </linearGradient>
+    <radialGradient id="glowLeft" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(130 100) rotate(38) scale(550 350)">
+      <stop stop-color="#F4F4FF" stop-opacity=".9"/><stop offset="1" stop-color="#F4F4FF" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowRight" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1240 300) rotate(134) scale(620 330)">
+      <stop stop-color="#D9D3FF" stop-opacity=".5"/><stop offset="1" stop-color="#D9D3FF" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1600" height="420" fill="url(#bg)"/>
+  <rect width="1600" height="420" fill="url(#glowLeft)"/>
+  <rect width="1600" height="420" fill="url(#glowRight)"/>
+  <path d="M0 322C95 268 184 244 278 248C397 253 493 297 590 331C683 364 761 375 854 369C1004 359 1092 295 1187 252C1308 198 1428 180 1600 214V420H0V322Z" fill="#6D61D0" fill-opacity=".42"/>
+  <g opacity=".14"><circle cx="170" cy="85" r="220" fill="#F5F5FF"/><circle cx="1295" cy="320" r="165" fill="#D7D4FF"/></g>
+  <g font-family="Segoe UI, Arial, sans-serif">
+    <text x="120" y="210" fill="#F8FAFC" font-size="110" font-weight="700">AMAL K AJI</text>
+    <text x="120" y="286" fill="#EDE9FE" font-size="30" font-weight="700" letter-spacing="8">BUILDING USEFUL SOFTWARE</text>
+    <rect x="120" y="306" width="580" height="5" rx="2.5" fill="#D9CFFB" opacity=".95"/>
+  </g>
+</svg>
