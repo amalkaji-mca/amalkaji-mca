@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,45:4c1d95,100:7c3aed&height=220&section=header&text=Amal%20K%20Aji&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20AI%20%26%20ML%20Builder%20%7C%20Cybersecurity%20Enthusiast&descAlignY=60&descSize=16" alt="Blue-violet gradient header banner" width="100%" />
+<img src="./profile-banner.svg" alt="Blue-violet gradient header banner" width="100%" />
 
 ### Building useful software and exploring intelligent systems.
 
