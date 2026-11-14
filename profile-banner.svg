@@ -1,38 +1,38 @@
 <svg width="1600" height="420" viewBox="0 0 1600 420" fill="none" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1600" y2="420" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#0F172A"/>
-      <stop offset="0.2" stop-color="#312E81"/>
-      <stop offset="0.55" stop-color="#4F46E5"/>
-      <stop offset="1" stop-color="#7C3AED"/>
+      <stop stop-color="#A0A0F6"/>
+      <stop offset="0.35" stop-color="#7C7BE8"/>
+      <stop offset="0.7" stop-color="#5E55D6"/>
+      <stop offset="1" stop-color="#4139A7"/>
     </linearGradient>
-    <radialGradient id="glow1" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(250 80) rotate(34) scale(500 300)">
-      <stop stop-color="#A78BFA" stop-opacity="0.95"/>
-      <stop offset="1" stop-color="#A78BFA" stop-opacity="0"/>
+    <radialGradient id="glow-left" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(140 120) rotate(46) scale(500 260)">
+      <stop stop-color="#F1F2FF" stop-opacity="0.78"/>
+      <stop offset="1" stop-color="#F1F2FF" stop-opacity="0"/>
     </radialGradient>
-    <radialGradient id="glow2" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1180 290) rotate(120) scale(500 280)">
-      <stop stop-color="#22D3EE" stop-opacity="0.55"/>
-      <stop offset="1" stop-color="#22D3EE" stop-opacity="0"/>
+    <radialGradient id="glow-right" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1200 260) rotate(138) scale(520 260)">
+      <stop stop-color="#A7B9FF" stop-opacity="0.4"/>
+      <stop offset="1" stop-color="#A7B9FF" stop-opacity="0"/>
     </radialGradient>
   </defs>
 
   <rect width="1600" height="420" fill="url(#bg)"/>
-  <rect width="1600" height="420" fill="url(#glow1)"/>
-  <rect width="1600" height="420" fill="url(#glow2)"/>
+  <rect width="1600" height="420" fill="url(#glow-left)"/>
+  <rect width="1600" height="420" fill="url(#glow-right)"/>
+
+  <g opacity="0.32">
+    <path d="M0 320C92 252 190 220 292 224C410 229 500 266 624 314C698 344 748 362 844 358C1004 350 1096 267 1178 225C1298 166 1413 146 1600 182V420H0V320Z" fill="#5A57B8"/>
+  </g>
 
   <g opacity="0.18">
-    <circle cx="120" cy="90" r="130" fill="#E0E7FF"/>
-    <circle cx="1460" cy="330" r="180" fill="#C4B5FD"/>
-    <circle cx="890" cy="80" r="110" fill="#A5B4FC"/>
+    <circle cx="220" cy="110" r="220" fill="#F3F4FF"/>
+    <circle cx="1320" cy="330" r="170" fill="#C4B5FD"/>
+    <circle cx="860" cy="60" r="140" fill="#DDD6FE"/>
   </g>
 
   <g>
-    <path d="M105 242C164 186 230 154 315 145C424 135 500 170 586 224C668 275 764 315 880 307C1010 298 1113 250 1188 207C1254 171 1328 140 1426 152C1474 158 1510 170 1556 198V336H70C76 294 88 268 105 242Z" fill="#0B1120" fill-opacity="0.18"/>
-  </g>
-
-  <g>
-    <text x="120" y="200" fill="#F8FAFC" font-family="Segoe UI, Arial, sans-serif" font-size="64" font-weight="700" letter-spacing="1">ALMAKAJI</text>
-    <text x="120" y="260" fill="#C4B5FD" font-family="Segoe UI, Arial, sans-serif" font-size="28" font-weight="600" letter-spacing="6">BUILDING USEFUL SOFTWARE</text>
-    <rect x="120" y="286" width="390" height="5" rx="3" fill="#A78BFA"/>
+    <text x="120" y="212" fill="#F8FAFC" font-family="Segoe UI, Arial, sans-serif" font-size="92" font-weight="700" letter-spacing="1">AMAL K AJI</text>
+    <text x="120" y="286" fill="#E5E7EB" font-family="Segoe UI, Arial, sans-serif" font-size="30" font-weight="600" letter-spacing="7">BUILDING USEFUL SOFTWA</text>
+    <rect x="120" y="310" width="520" height="5" rx="2.5" fill="#E9D5FF" opacity="0.9"/>
   </g>
 </svg>
