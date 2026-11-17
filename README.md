@@ -26,6 +26,10 @@ I’m an Integrated MCA student interested in **software engineering, machine le
 
 ## Featured projects
 
+> ⭐ **Major project** · **[TWELVEND](https://github.com/nyxaraindia/TWELVEND)**
+>
+> A psychological horror mystery game built around an unsettling question: a house has twelve rooms—so why is there a thirteenth? Explore the mystery behind the impossible room.
+
 ### 🧠 [Nyxara AI](https://github.com/nyxaraindia/Nyxara-Ai)
 An early-stage foundation-model research project exploring a language model built from the ground up, including its architecture, tokenizer, training pipeline, and evaluation.
 
