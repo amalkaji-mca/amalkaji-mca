@@ -35,7 +35,9 @@ My personal portfolio showcasing my background, skills, experience, and project 
 
 ### Nyxara India Collaborations
 
-Public repositories under [**Nyxara India**](https://github.com/nyxaraindia) where GitHub lists me as a contributor. Contribution counts below are the public counts reported by GitHub and include smaller contributions too.
+Public Nyxara India repositories where GitHub currently lists me as a contributor. Counts reflect the public contributor totals reported by GitHub; they may change as repositories receive new contributions.
+
+**11 repositories · 88 contributions**
 
 | Repository | Contributions |
 | --- | ---: |
