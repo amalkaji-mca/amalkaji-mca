@@ -35,37 +35,21 @@ My personal portfolio showcasing my background, skills, experience, and project 
 
 ### Nyxara India Collaborations
 
-I collaborate on projects under [**Nyxara India**](https://github.com/nyxaraindia), an organization focused on building innovative technology and AI-driven products.
+Public repositories under [**Nyxara India**](https://github.com/nyxaraindia) where GitHub lists me as a contributor. Contribution counts below are the public counts reported by GitHub and include smaller contributions too.
 
-#### 🧠 [Nyxara AI](https://github.com/nyxaraindia/Nyxara-Ai)
-
-An early-stage foundation-model research project exploring language model architecture, tokenization, training pipelines, and evaluation.
-
-**Focus:** Language models · Model architecture · Training and evaluation
-
-#### 📒 [ESVRO](https://github.com/nyxaraindia/ESVRO)
-
-A Flutter and SQLite bookkeeping ecosystem for shop owners and accountants, with a deterministic financial core and traceable, human-approved AI-assisted workflows.
-
-**Built with:** Flutter · Dart · SQLite · AI-assisted workflows
-
-#### 📄 [CurVitae](https://github.com/nyxaraindia/CurVitae)
-
-An AI-powered CV and resume builder for transforming career details into polished, exportable documents.
-
-**Built with:** Flutter · Dart · Firebase · Nyxara AI
-
-#### 🌙 [LUNA NAV](https://github.com/nyxaraindia/LUNA-NAV)
-
-A lunar mission-planning and landing-site exploration project using NASA open data, terrain analysis, and interactive illumination tools.
-
-**Built with:** HTML · CSS · JavaScript · Python
-
-#### 🎮 [TWELVEND](https://github.com/nyxaraindia/TWELVEND)
-
-A psychological horror mystery game centered on an impossible thirteenth room in a house that supposedly has twelve rooms.
-
-**Type:** Game development · Mystery · Horror
+| Repository | Contributions |
+| --- | ---: |
+| [TWELVEND](https://github.com/nyxaraindia/TWELVEND) | 33 |
+| [Nyxara-Ai](https://github.com/nyxaraindia/Nyxara-Ai) | 31 |
+| [ESVRO](https://github.com/nyxaraindia/ESVRO) | 9 |
+| [LUNA-NAV](https://github.com/nyxaraindia/LUNA-NAV) | 4 |
+| [CurVitae](https://github.com/nyxaraindia/CurVitae) | 3 |
+| [AVYRON](https://github.com/nyxaraindia/AVYRON) | 2 |
+| [VAYORA](https://github.com/nyxaraindia/VAYORA) | 2 |
+| [InstaXara](https://github.com/nyxaraindia/InstaXara) | 1 |
+| [CELESTIFY](https://github.com/nyxaraindia/CELESTIFY) | 1 |
+| [SKEIN](https://github.com/nyxaraindia/SKEIN) | 1 |
+| [NYXARA-INDIA](https://github.com/nyxaraindia/NYXARA-INDIA) | 1 |
 
 ## Toolkit
 
@@ -85,6 +69,8 @@ A psychological horror mystery game centered on an impossible thirteenth room in
 ## GitHub Activity
 
 <div align="center">
+
+[![Amal's contribution graph](https://github-readme-activity-graph.vercel.app/graph?username=amalkaji-mca&theme=tokyo-night&hide_border=true)](https://github.com/amalkaji-mca)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=amalkaji-mca&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
