@@ -35,19 +35,19 @@ My personal portfolio showcasing my background, skills, experience, and project 
 
 ### Nyxara India Collaborations
 
-Public Nyxara India repositories where GitHub currently lists me as a contributor. Counts reflect the public contributor totals reported by GitHub; they may change as repositories receive new contributions.
+Public Nyxara India repositories where GitHub currently lists me as a contributor. Contribution totals below are based on GitHub's public contributor data; AVYRON also has 3 recent changes. Counts may change as repositories receive new contributions.
 
-**11 repositories · 88 contributions**
+**11 repositories · 98 contributions · 117 commits across GitHub (as of November 22, 2026)**
 
 | Repository | Contributions |
 | --- | ---: |
-| [TWELVEND](https://github.com/nyxaraindia/TWELVEND) | 33 |
-| [Nyxara-Ai](https://github.com/nyxaraindia/Nyxara-Ai) | 31 |
+| [TWELVEND](https://github.com/nyxaraindia/TWELVEND) | 34 |
+| [Nyxara-Ai](https://github.com/nyxaraindia/Nyxara-Ai) | 32 |
 | [ESVRO](https://github.com/nyxaraindia/ESVRO) | 9 |
+| [AVYRON](https://github.com/nyxaraindia/AVYRON) | 8 (3 recent changes) |
 | [LUNA-NAV](https://github.com/nyxaraindia/LUNA-NAV) | 4 |
+| [VAYORA](https://github.com/nyxaraindia/VAYORA) | 4 |
 | [CurVitae](https://github.com/nyxaraindia/CurVitae) | 3 |
-| [AVYRON](https://github.com/nyxaraindia/AVYRON) | 2 |
-| [VAYORA](https://github.com/nyxaraindia/VAYORA) | 2 |
 | [InstaXara](https://github.com/nyxaraindia/InstaXara) | 1 |
 | [CELESTIFY](https://github.com/nyxaraindia/CELESTIFY) | 1 |
 | [SKEIN](https://github.com/nyxaraindia/SKEIN) | 1 |
@@ -72,11 +72,11 @@ Public Nyxara India repositories where GitHub currently lists me as a contributo
 
 <div align="center">
 
-[![Amal's contribution graph](https://github-readme-activity-graph.vercel.app/graph?username=amalkaji-mca&theme=tokyo-night&hide_border=true)](https://github.com/amalkaji-mca)
+[![Amal's contribution graph](https://github-readme-activity-graph.vercel.app/graph?username=amalkaji-mca&theme=github-compact&area=true&hide_border=true&custom_title=GitHub%20Activity&v=20261122)](https://github.com/amalkaji-mca)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=amalkaji-mca&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=amalkaji-mca&theme=github-dark&hide_border=true&v=20261122)](https://git.io/streak-stats)
 
-[![Amal's GitHub stats](https://github-readme-stats.vercel.app/api?username=amalkaji-mca&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/amalkaji-mca)
+[![Amal's GitHub stats](https://github-readme-stats.vercel.app/api?username=amalkaji-mca&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true&v=20261122)](https://github.com/amalkaji-mca)
 
 </div>
 
