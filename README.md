@@ -6,8 +6,8 @@
 
 I build practical software at the intersection of **generative AI, mobile applications, and cybersecurity**.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-4f46e5?style=for-the-badge&logo=googlechrome&logoColor=white)](https://amalkaji-mca.github.io/Portfolio/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amal-k-aji-nyxara-in/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-4f46e5?style=for-the-badge&logo=googlechrome&logoColor=white)](https://amalkaji-mca.github.io/Portfolio/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amal-k-aji-nyxara-in/) 
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amalkunnumpurth@gmail.com)
 
 </div>
@@ -35,16 +35,16 @@ My personal portfolio showcasing my background, skills, experience, and project 
 
 ### Nyxara India Collaborations
 
-Public Nyxara India repositories where GitHub currently lists me as a contributor. Contribution totals below are based on GitHub's public contributor data; AVYRON also has 3 recent changes. Counts may change as repositories receive new contributions.
+Public Nyxara India repositories where GitHub currently lists me as a contributor. Counts are based on live public contributor data from GitHub.
 
-**11 repositories · 98 contributions · 117 commits across GitHub (as of November 22, 2026)**
+**11 repositories · 113 public contribution commits**
 
-| Repository | Contributions |
+| Repository | Public contributions |
 | --- | ---: |
-| [TWELVEND](https://github.com/nyxaraindia/TWELVEND) | 34 |
-| [Nyxara-Ai](https://github.com/nyxaraindia/Nyxara-Ai) | 32 |
+| [TWELVEND](https://github.com/nyxaraindia/TWELVEND) | 47 |
+| [Nyxara-Ai](https://github.com/nyxaraindia/Nyxara-Ai) | 33 |
+| [AVYRON](https://github.com/nyxaraindia/AVYRON) | 9 |
 | [ESVRO](https://github.com/nyxaraindia/ESVRO) | 9 |
-| [AVYRON](https://github.com/nyxaraindia/AVYRON) | 8 (3 recent changes) |
 | [LUNA-NAV](https://github.com/nyxaraindia/LUNA-NAV) | 4 |
 | [VAYORA](https://github.com/nyxaraindia/VAYORA) | 4 |
 | [CurVitae](https://github.com/nyxaraindia/CurVitae) | 3 |
@@ -60,7 +60,7 @@ Public Nyxara India repositories where GitHub currently lists me as a contributo
   <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart" />
   <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=222222" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=222222" alt="Firebase" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white" alt="Firebase" />
   <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
   <img src="https://img.shields.io/badge/Generative_AI-6D28D9?style=flat-square&logo=googlegemini&logoColor=white" alt="Generative AI" />
   <img src="https://img.shields.io/badge/Cybersecurity-1E40AF?style=flat-square&logo=shieldsdotio&logoColor=white" alt="Cybersecurity" />
@@ -72,11 +72,9 @@ Public Nyxara India repositories where GitHub currently lists me as a contributo
 
 <div align="center">
 
-[![Amal's contribution graph](https://github-readme-activity-graph.vercel.app/graph?username=amalkaji-mca&theme=github-compact&area=true&hide_border=true&custom_title=GitHub%20Activity&v=20261122)](https://github.com/amalkaji-mca)
+[![GitHub Streak](https://streak-stats.demolab.com?user=amalkaji-mca&theme=github-dark&hide_border=true&v=20261123)](https://git.io/streak-stats)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=amalkaji-mca&theme=github-dark&hide_border=true&v=20261122)](https://git.io/streak-stats)
-
-[![Amal's GitHub stats](https://github-readme-stats.vercel.app/api?username=amalkaji-mca&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true&v=20261122)](https://github.com/amalkaji-mca)
+[![Amal's GitHub stats](https://github-readme-stats.vercel.app/api?username=amalkaji-mca&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true&cache_seconds=21600&v=20261123)](https://github.com/amalkaji-mca)
 
 </div>
 
