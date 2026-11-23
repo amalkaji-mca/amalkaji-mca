@@ -8,7 +8,7 @@ I build practical software at the intersection of **generative AI, mobile applic
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-4f46e5?style=for-the-badge&logo=googlechrome&logoColor=white)](https://amalkaji-mca.github.io/Portfolio/) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amal-k-aji-nyxara-in/) 
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amalkunnumpurth@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contact-EA43F5?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amalkunnumpurth@gmail.com)
 
 </div>
 
@@ -37,11 +37,11 @@ My personal portfolio showcasing my background, skills, experience, and project 
 
 Public Nyxara India repositories where GitHub currently lists me as a contributor. Counts are based on live public contributor data from GitHub.
 
-**11 repositories · 113 public contribution commits**
+**11 repositories · 119 public contribution commits**
 
 | Repository | Public contributions |
 | --- | ---: |
-| [TWELVEND](https://github.com/nyxaraindia/TWELVEND) | 47 |
+| [TWELVEND](https://github.com/nyxaraindia/TWELVEND) | 53 |
 | [Nyxara-Ai](https://github.com/nyxaraindia/Nyxara-Ai) | 33 |
 | [AVYRON](https://github.com/nyxaraindia/AVYRON) | 9 |
 | [ESVRO](https://github.com/nyxaraindia/ESVRO) | 9 |
