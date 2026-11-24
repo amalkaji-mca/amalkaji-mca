@@ -1,59 +1,61 @@
 <div align="center">
 
-# Amal K Aji
+# Amal K. Aji
 
-### Software Engineer · Cybersecurity Enthusiast · AI Builder
+**Founder & CEO, Nyxara India · Software Developer · AI & Cybersecurity Builder**
 
-I build practical software at the intersection of **generative AI, mobile applications, and cybersecurity**.
+I build useful digital products across **AI, mobile, and security**—and lead Nyxara India with a focus on turning ambitious ideas into thoughtful, working software.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-4f46e5?style=for-the-badge&logo=googlechrome&logoColor=white)](https://amalkaji-mca.github.io/Portfolio/) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amal-k-aji-nyxara-in/) 
-[![Email](https://img.shields.io/badge/Email-Contact-EA43F5?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amalkunnumpurth@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Explore-4f46e5?style=for-the-badge&logo=googlechrome&logoColor=white)](https://amalkaji-mca.github.io/Portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amal-k-aji-nyxara-in/)
+[![Email](https://img.shields.io/badge/Email-Get_in_touch-EA43F5?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amalkunnumpurth@gmail.com)
 
 </div>
 
 ---
 
-## About Me
+## About
 
-- 🎓 Integrated MCA student at Amal Jyothi College of Engineering (2026–2031)
-- 💻 Building with **Flutter, Dart, Python, JavaScript, HTML, CSS, and Firebase**
-- 🧠 Exploring **machine learning, generative AI, and foundation models**
-- 🔐 Interested in **cybersecurity, network security, and cyber defense**
-- 🤝 Open to thoughtful software, AI, mobile, and security collaborations
+I’m an Integrated MCA student at **Amal Jyothi College of Engineering** (2026–2031), a software developer, and the **Founder & CEO of Nyxara India**, a role I began in **August 2026**.
 
-## Featured Projects
+My work spans product development, generative AI, mobile applications, and cybersecurity. I enjoy learning through building: understanding a problem, shaping a practical solution, and improving it through iteration.
 
-### Personal Project
+- **Building with:** Flutter, Dart, Python, JavaScript, Firebase, HTML, and CSS
+- **Exploring:** Machine learning, foundation models, cloud infrastructure, and cyber defense
+- **Interested in:** Product engineering, responsible AI, mobile experiences, and security-minded design
+- **Open to:** Meaningful collaborations in software, AI, mobile, and cybersecurity
 
-#### 🌐 [Portfolio](https://github.com/amalkaji-mca/Portfolio)
+## Leadership
 
-My personal portfolio showcasing my background, skills, experience, and project work.
+### Founder & CEO · [Nyxara India](https://github.com/nyxaraindia)
+**August 2026–Present**
+
+Leading Nyxara India while contributing to the development of its software and AI projects. My approach is hands-on: pair clear product thinking with practical engineering, keep learning, and deliver work that creates value for people.
+
+## Selected Work
+
+### [Personal Portfolio](https://amalkaji-mca.github.io/Portfolio/)
+A home for my background, skills, projects, and development journey.
 
 **Built with:** HTML · CSS · JavaScript  
-**Live:** [amalkaji-mca.github.io/Portfolio](https://amalkaji-mca.github.io/Portfolio/)
+**Source:** [amalkaji-mca/Portfolio](https://github.com/amalkaji-mca/Portfolio) · **Live site:** [Open portfolio](https://amalkaji-mca.github.io/Portfolio/)
 
-### Nyxara India Collaborations
+### Nyxara India Projects
+I contribute to public projects across the Nyxara India GitHub organization, including:
 
-Public Nyxara India repositories where GitHub currently lists me as a contributor. Counts are based on live public contributor data from GitHub.
+- [TWELVEND](https://github.com/nyxaraindia/TWELVEND)
+- [Nyxara-Ai](https://github.com/nyxaraindia/Nyxara-Ai)
+- [AVYRON](https://github.com/nyxaraindia/AVYRON)
+- [ESVRO](https://github.com/nyxaraindia/ESVRO)
+- [LUNA-NAV](https://github.com/nyxaraindia/LUNA-NAV)
+- [VAYORA](https://github.com/nyxaraindia/VAYORA)
+- [CurVitae](https://github.com/nyxaraindia/CurVitae)
+- [InstaXara](https://github.com/nyxaraindia/InstaXara)
+- [CELESTIFY](https://github.com/nyxaraindia/CELESTIFY)
+- [SKEIN](https://github.com/nyxaraindia/SKEIN)
+- [NYXARA-INDIA](https://github.com/nyxaraindia/NYXARA-INDIA)
 
-**11 repositories · 119 public contribution commits**
-
-| Repository | Public contributions |
-| --- | ---: |
-| [TWELVEND](https://github.com/nyxaraindia/TWELVEND) | 53 |
-| [Nyxara-Ai](https://github.com/nyxaraindia/Nyxara-Ai) | 33 |
-| [AVYRON](https://github.com/nyxaraindia/AVYRON) | 9 |
-| [ESVRO](https://github.com/nyxaraindia/ESVRO) | 9 |
-| [LUNA-NAV](https://github.com/nyxaraindia/LUNA-NAV) | 4 |
-| [VAYORA](https://github.com/nyxaraindia/VAYORA) | 4 |
-| [CurVitae](https://github.com/nyxaraindia/CurVitae) | 3 |
-| [InstaXara](https://github.com/nyxaraindia/InstaXara) | 1 |
-| [CELESTIFY](https://github.com/nyxaraindia/CELESTIFY) | 1 |
-| [SKEIN](https://github.com/nyxaraindia/SKEIN) | 1 |
-| [NYXARA-INDIA](https://github.com/nyxaraindia/NYXARA-INDIA) | 1 |
-
-## Toolkit
+## Technologies & Interests
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
@@ -66,15 +68,15 @@ Public Nyxara India repositories where GitHub currently lists me as a contributo
   <img src="https://img.shields.io/badge/Cybersecurity-1E40AF?style=flat-square&logo=shieldsdotio&logoColor=white" alt="Cybersecurity" />
 </p>
 
-**Exploring:** Machine learning · Foundation models · Mobile development · Cybersecurity · Cloud infrastructure
+**Current learning areas:** Machine learning · Foundation models · Mobile engineering · Cybersecurity · Cloud infrastructure
 
 ## GitHub Activity
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=amalkaji-mca&theme=github-dark&hide_border=true&v=20261123)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=amalkaji-mca&theme=github-dark&hide_border=true)](https://git.io/streak-stats)
 
-[![Amal's GitHub stats](https://github-readme-stats.vercel.app/api?username=amalkaji-mca&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true&cache_seconds=21600&v=20261123)](https://github.com/amalkaji-mca)
+[![Amal's GitHub stats](https://github-readme-stats.vercel.app/api?username=amalkaji-mca&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true)](https://github.com/amalkaji-mca)
 
 </div>
 
@@ -82,6 +84,6 @@ Public Nyxara India repositories where GitHub currently lists me as a contributo
 
 <div align="center">
 
-*Curious by nature. Building one project at a time.*
+*Think clearly. Build thoughtfully. Keep moving forward.*
 
 </div>
